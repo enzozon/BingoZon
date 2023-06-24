@@ -1,2 +1,2 @@
 # BingoZon
-Trabalho que tem como objetivo cirar um bingo
+Trabalho que tem como objetivo criar um bingo
